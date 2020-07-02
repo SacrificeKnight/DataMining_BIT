@@ -1,7 +1,9 @@
 # DataMining_BIT
-本项目为北京理工大学数据挖掘课程互评作业1
+本项目为北京理工大学数据挖掘课程互评作业
 
-本次作业1选取的数据集为Wine Reviews和Oakland Crime Statistics 2011 to 2016
+## 互评作业1
+
+作业1选取的数据集为Wine Reviews和Oakland Crime Statistics 2011 to 2016
 
 主要内容：
 
